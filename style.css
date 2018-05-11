@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Varela+Round');
+body{background-color:#fff; font-family: 'Varela Round', sans-serif;}
+.navbar{ background-color:#4996E6 !important;  padding: 1.2rem !important;}
+.top-container{background-color: #4996E6; }
+.navbar a{color:#fff !important;}
+.lead{color:#19436f}
+.jumbotron{margin-bottom: 0.5rem !important; background: transparent !important; color:#fff; padding-top:1rem;}
+.jumbotron p{color:#19436f; font-size: 25px;}
+.card{width: 25rem; float:left; margin-right: 1rem}
+.row{background-color: #fff;}
+.bg-light {
+    background-color: #e9e8e8!important;
+}
+.justify-content-center{background-color: #f4f4f4; }
+.justify-content-center.top-border{border-top: 1px solid #ccc}
+.justify-content-center a{color: #000; }
+.list-group-item.active{background-color: #f4f4f4 !important; border:1px solid rgba(0,0,0,.125); color:#19436f}
+address{font-size: 20px;}
